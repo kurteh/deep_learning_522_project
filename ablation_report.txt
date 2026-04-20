@@ -1,0 +1,4 @@
+Depth 5: Mean Dice Score = 0.8452
+Depth 4: Mean Dice Score = 0.8749
+Depth 3: Mean Dice Score = 0.8593
+Depth 2: Mean Dice Score = 0.8461
