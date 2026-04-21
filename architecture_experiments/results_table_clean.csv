@@ -1,0 +1,13 @@
+Experiment,Pixel Accuracy,IoU
+Default U-Net,0.939,0.7044
+Only Middle Skip Connection,0.9391,0.694
+Only Top Skip Connection,0.9323,0.6912
+Bottom Down Block Connect To Top Up Block,0.9224,0.6438
+Extra Block U-Net,0.9161,0.6349
+U-Net With No Skip Connections,0.9006,0.5852
+Only Bottom Skip Connection,0.9002,0.5833
+Top Down Block Connect To Bottom Up Block,0.9005,0.5833
+Only Two Blocks,0.9259,0.5465
+Top Skip Connection Removed,0.9167,0.457
+Only One Block,0.9127,0.4311
+Only One Block With More Capacity,0.9086,0.3112
