@@ -1,0 +1,4 @@
+# Virtual environment files
+./venv/
+pyproject.toml
+__pychache__/
